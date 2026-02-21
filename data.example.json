@@ -1,0 +1,14 @@
+[
+  {
+    "date": "Example: 2026-02-01",
+    "category": "food",
+    "amount": 450,
+    "user_data": false
+  },
+  {
+    "date": "Example: 2026-02-02",
+    "category": "transport",
+    "amount": 120,
+    "user_data": false
+  }
+]
