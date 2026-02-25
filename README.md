@@ -23,9 +23,14 @@ travel-log-analyzer/
 - Modular architecture
 - CLI-based interface
 
+### v1.0
+Initial CLI implementation
+
 ## How to Run
 
 Requires Python 3.10+
 
 ```bash
 python cli.py
+
+
